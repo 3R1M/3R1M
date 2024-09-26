@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @3R1M
-- 👀 I’m interested in learning mobile programming langauges such as flutter. When it comes to my personal interests, I listen to music a lot, play some games,
-but recently I couldn't find a time to do so :(. Well if You are reading this, then I wish You a nice day/evening/night whoever you are
-- 🌱 I’m currently finish highschool
+- I am currently pursuing Electronics and Computer Engineering degree at Wrocław University of Science and Technology.
+  It's my 3rd year, and even if it's late, I wanted to actually create and finish project/projects which I would like to share with you in the near future. 
+  They are not going to be complicated, I just want to test my skills and gain much more knowledge, not only in coding but also in programming (I will start with pythin and JS for front and end dev)
+  Credetials mean nothing, you have to earn respect by your real skills and work.
 - 📫 How to reach me: 
 - Discord: 3R1M#4334
 
