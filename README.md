@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @3R1M
-- I  Bsc. of Sciencie in  Electronics and Computer Engineering degree at Wrocław University of Science and Technology.
-  I wanted to createproject/projects which I would like to share with you in the near future. 
-  I  want to test my skills and gain much more knowledge, not only in coding but also in programming.
+- Bsc. of Sciencie in Electronics and Computer Engineering degree at Wrocław University of Science and Technology.
+  Currently enrolled in Advanced Applied Electronics - Msc.
 - 📫 How to reach me: 
 - Discord: 3R1M#4334
 
